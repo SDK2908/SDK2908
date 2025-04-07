@@ -5,7 +5,8 @@ Hi, I'm a first-year Computer Science and Engineering student at Dr. NGP Institu
 ✨ What I'm working on:
 - Exploring Full-Stack Web Development  
 - Experimenting with beginner-friendly real-world project ideas  
-- Learning to apply Blockchain and tech for healthcare solutions  
+- Learning to apply Blockchain and tech for healthcare solutions
+- Recently built and deployed [Daily Mood Journal](https://sdk2908.github.io/Mood_Journal/) – a simple frontend app for tracking your mood and notes 
 
 ✨ Currently learning:
 - Python, C Programming, HTML & CSS  
