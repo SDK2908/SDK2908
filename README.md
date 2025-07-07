@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm a first-year Computer Science and Engineering student at Dr. NGP Institute of Technology, currently in my second semester and diving deep into the world of tech!
+Hi, I'm a second-year Computer Science and Engineering student at Dr. NGP Institute of Technology, currently in my third semester!
 
 ✨ What I'm working on:
 - Exploring Full-Stack Web Development  
@@ -11,7 +11,7 @@ Hi, I'm a first-year Computer Science and Engineering student at Dr. NGP Institu
 ✨ Currently learning:
 - Python, C Programming, HTML & CSS  
 - Basics of Frontend & Backend development  
-- Using tech to solve real-world problems 🌱  
+- Using tech to solve real-world problems 
 
 🤝 I’m looking to collaborate on:
 - Beginner-friendly projects in full-stack development  
