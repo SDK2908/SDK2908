@@ -7,11 +7,11 @@ Second-year CSE student at Dr. NGP Institute of Technology | Full-Stack & Flutte
 - Experimenting with healthcare blockchain solutions  
 
 **Tech Stack:** 
-Flutter, Dart, Python, Java, HTML/CSS, Firebase  
+Flutter, Python, Java, HTML/CSS  
 
 **Goals:**  
 - Build impactful projects  
 - Contribute to open-source  
 - Work and live in the USA  
 
-📬 Reach me: samyukthadheepthi@gmail.comiht
+📬 Reach me: samyukthadheepthi@gmail.com
