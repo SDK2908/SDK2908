@@ -1,8 +1,8 @@
 Hi, I'm Samyuktha Dheepthi K   
-Second-year CSE student at Dr. NGP Institute of Technology | Full-Stack(MERN) & Flutter Developer | Exploring Blockchain in Healthcare  
+Third-year CSE student at Dr. NGP Institute of Technology | Full-Stack(MERN & Java) & Flutter Developer | Exploring Blockchain in Healthcare  
 
 **Current Focus:**  
-- Building beginner-friendly full-stack(MERN) projects  
+- Building beginner-friendly full-stack(MERN & Java) projects  
 - Applying tech to solve real-world problems  
 - Experimenting with healthcare blockchain solutions  
 
